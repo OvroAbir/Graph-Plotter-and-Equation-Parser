@@ -1,6 +1,6 @@
 # Graph Plotter and Equation Parser
 
-Graph plotter is a C program. The UI is used with iGraphics. It can implement a two variable function f(x, y) in 2 dimensional or 3 dimensional space. 
+Graph plotter is a C program. The UI is used with iGraphics. It can implement one variable function f(x) in 2 dimensional and three variable function f(x, y) in 3 dimensional space. 
 You can also use `Equation parser.c` as a parser completely written in C. 
 
 ## Getting Started
